@@ -65,12 +65,10 @@ body{
     justify-content: center;
 }
 .detail{
-    padding-left: 10 rem;
-    padding-right: 10 rem;
+    padding: 3rem;
     padding-top: 6rem;
     padding-bottom: 2rem;
     color: white;
-
 }
 .nav-pair{
     display: flex;
